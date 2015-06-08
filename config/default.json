@@ -2,8 +2,8 @@
   "database": {
     "host":       "127.0.0.1",
     "user":       "root",
-    "password":   "root",
+    "password":   "you're password",
     "database":   "temperature",
-    "socketPath": "/Applications/MAMP/tmp/mysql/mysql.sock"
+    "socketPath": "/var/run/mysqld/mysqld.sock"
   }
 }
